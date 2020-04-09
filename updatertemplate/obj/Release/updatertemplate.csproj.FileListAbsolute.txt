@@ -1,0 +1,8 @@
+C:\Users\phoen\source\repos\updatertemplate\updatertemplate\bin\Release\updatertemplate.exe
+C:\Users\phoen\source\repos\updatertemplate\updatertemplate\bin\Release\updatertemplate.pdb
+C:\Users\phoen\source\repos\updatertemplate\updatertemplate\obj\Release\updatertemplate.Form1.resources
+C:\Users\phoen\source\repos\updatertemplate\updatertemplate\obj\Release\updatertemplate.Properties.Resources.resources
+C:\Users\phoen\source\repos\updatertemplate\updatertemplate\obj\Release\updatertemplate.csproj.GenerateResource.cache
+C:\Users\phoen\source\repos\updatertemplate\updatertemplate\obj\Release\updatertemplate.csproj.CoreCompileInputs.cache
+C:\Users\phoen\source\repos\updatertemplate\updatertemplate\obj\Release\updatertemplate.exe
+C:\Users\phoen\source\repos\updatertemplate\updatertemplate\obj\Release\updatertemplate.pdb
